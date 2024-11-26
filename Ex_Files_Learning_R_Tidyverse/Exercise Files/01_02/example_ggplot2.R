@@ -1,3 +1,5 @@
+install.packages("gapminder")
+
 library("gapminder")
 library("tidyverse")
 
