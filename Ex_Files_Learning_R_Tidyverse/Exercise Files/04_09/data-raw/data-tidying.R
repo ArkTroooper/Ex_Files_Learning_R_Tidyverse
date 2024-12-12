@@ -29,3 +29,8 @@ transport_data <- transport_data %>%
 
 transport_data %>%
   write_csv("data/transport_data.csv")
+
+
+
+transport_data %>%
+  write_csv("data/time-periods.csv", append = TRUE)

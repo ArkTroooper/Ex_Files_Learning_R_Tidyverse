@@ -22,6 +22,9 @@ transport_data <- transport_data %>%
   group_by(sender.country, sender.state) %>%
   arrange(sender.city)
 
+transport_data %>%
+  save(file = "data/transport_data.rdata")
+
 
 
 

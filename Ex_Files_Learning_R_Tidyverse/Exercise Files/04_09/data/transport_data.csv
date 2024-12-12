@@ -1,6 +1,4 @@
-period.start,period.end,period.name
-1750-01-01,1899-12-31,Early industrial revolution
-1700-01-01,1749-12-31,Pre-industrial revolution
+sender.country,sender.city,sender.state,sender.latitude,sender.longitude,receiver.country,receiver.city,receiver.state,receiver.latitude,receiver.longitude,date,number.of.items,percent.of.all.items
 DEU, Mockethal,NA,50.97178,13.960129,USA, New York ,NY,40.712784,-74.005941000000007,1915-09-09,329,0.12126484019947882
 DEU, Mockethal,NA,50.97178,13.960129,USA, New York ,NY,40.712784,-74.005941000000007,1915-09-21,439,0.16180931564611306
 DEU, Mockethal,NA,50.97178,13.960129,USA, New York ,NY,40.712784,-74.005941000000007,1915-09-23,451,0.16623234933120046
